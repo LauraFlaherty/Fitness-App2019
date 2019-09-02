@@ -18,6 +18,9 @@ namespace FitnessTrackerApp
 			InitializeComponent ();
 		}
 
+        /*
+         * deletes the file if it existed and the user is brought back to the fitness Information List page. 
+         * */
         async void Delete_Button_Clicked(object sender, EventArgs e)
         {
             var fit = (Fit)BindingContext;
@@ -31,19 +34,22 @@ namespace FitnessTrackerApp
             await Navigation.PopAsync();
         }
 
+        /*
+        * save the details entered into a new file with a randomly generated name 
+        * or, if the list item is being edited,  an existing file, .
+        * */
+
         async void Save_Button_Clicked(object sender, EventArgs e)
         {
             var fit = (Fit)BindingContext;
 
             if (string.IsNullOrWhiteSpace(fit.Fitfile))
             {
-                // Save to exercise.txt file
                 var fitFile = Path.Combine(App.FolderPath, $"{Path.GetRandomFileName()}.exercise.txt");
                 File.WriteAllText(fitFile, fit.Text);
             }
             else
             {
-                // Change or update
                 File.WriteAllText(fit.Fitfile, fit.Text);
             }
 

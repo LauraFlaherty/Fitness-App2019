@@ -11,6 +11,10 @@ namespace FitnessTrackerApp
         //Necessary to get the folder path, used in xaml.cs files
         public static string FolderPath { get; private set; }
 
+        /*
+         * App opens on to FitnessPage
+         * Folder path = the path on device where exercise details are stored. 
+         * */
         public App()
         {
             InitializeComponent();
