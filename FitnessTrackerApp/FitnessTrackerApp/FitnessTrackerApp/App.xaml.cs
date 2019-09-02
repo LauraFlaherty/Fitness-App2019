@@ -8,6 +8,7 @@ namespace FitnessTrackerApp
 {
     public partial class App : Application
     {
+        //Necessary to get the folder path, used in xaml.cs files
         public static string FolderPath { get; private set; }
 
         public App()

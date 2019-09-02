@@ -22,6 +22,7 @@ namespace FitnessTrackerApp
         {
             var fit = (Fit)BindingContext;
 
+            //If the file exists, delete
             if (File.Exists(fit.Fitfile))
             {
                 File.Delete(fit.Fitfile);

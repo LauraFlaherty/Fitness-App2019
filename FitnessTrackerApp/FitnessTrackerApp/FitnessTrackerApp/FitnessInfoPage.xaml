@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="FitnessTrackerApp.FitnessInfoPage">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessTrackerApp.FitnessInfoPage" Title="Fitness Information" BackgroundColor="GreenYellow">
     <ContentPage.Content>
         <StackLayout Margin="60">
             <Editor Placeholder="Enter your exercise details" Text="{Binding Text}" HeightRequest="90" />
@@ -10,9 +8,9 @@
                     <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-             <!-- Buttons call functions from FitnessInfoPage.xaml.cs-->
-                <Button  Text="Delete"  Clicked="Delete_Button_Clicked"/> 
-                <Button Grid.Column="1" Text="Save"  Clicked="Save_Button_Clicked" />
+                <!-- Buttons call functions from FitnessInfoPage.xaml.cs-->
+                <Button Text="Delete" Clicked="Delete_Button_Clicked" />
+                <Button Grid.Column="1" Text="Save" Clicked="Save_Button_Clicked" />
             </Grid>
         </StackLayout>
     </ContentPage.Content>
