@@ -1,1 +1,1 @@
-C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\FitnessTrackerApp.UWP.csproj;x86
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\FitnessTrackerApp.UWP.csproj;x86

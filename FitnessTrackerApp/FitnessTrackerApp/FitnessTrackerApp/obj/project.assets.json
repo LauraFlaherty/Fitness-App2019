@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj",
+      "projectUniqueName": "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj",
       "projectName": "FitnessTrackerApp",
-      "projectPath": "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj",
+      "projectPath": "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj",
       "packagesPath": "C:\\Users\\Lannc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\obj\\",
+      "outputPath": "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

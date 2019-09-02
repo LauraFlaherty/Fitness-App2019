@@ -12,3 +12,17 @@ C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrac
 C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessTrackerApp.pdb
 C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessInfoPage.xaml.g.cs
 C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessPage.xaml.g.cs
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\netstandard2.0\FitnessTrackerApp.deps.json
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\netstandard2.0\FitnessTrackerApp.dll
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\netstandard2.0\FitnessTrackerApp.pdb
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessTrackerApp.csprojAssemblyReference.cache
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessInfoPage.xaml.g.cs
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessPage.xaml.g.cs
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessTrackerApp.csproj.CoreCompileInputs.cache
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessTrackerApp.AssemblyInfoInputs.cache
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessTrackerApp.AssemblyInfo.cs
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessTrackerApp.dll
+C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\obj\Debug\netstandard2.0\FitnessTrackerApp.pdb

@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.UWP\\FitnessTrackerApp.UWP.csproj",
+      "projectUniqueName": "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.UWP\\FitnessTrackerApp.UWP.csproj",
       "projectName": "FitnessTrackerApp.UWP",
-      "projectPath": "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.UWP\\FitnessTrackerApp.UWP.csproj",
+      "projectPath": "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.UWP\\FitnessTrackerApp.UWP.csproj",
       "packagesPath": "C:\\Users\\Lannc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.UWP\\obj\\",
+      "outputPath": "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj": {
-              "projectPath": "C:\\Users\\Lannc\\Desktop\\MobileAppProject\\FitTracker\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj"
+            "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj": {
+              "projectPath": "C:\\MobileAppProject2019\\Fitness-App2019\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp\\FitnessTrackerApp.csproj"
             }
           }
         }

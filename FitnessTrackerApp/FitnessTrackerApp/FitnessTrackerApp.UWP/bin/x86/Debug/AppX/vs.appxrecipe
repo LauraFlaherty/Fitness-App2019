@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=4a2b66af-ab3d-44cb-8f0f-bb28b147ea46</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>675496D21D4BBF544704EC1A126C9EA1785E0B8C16C175ED42A5CCD066B6F7F1</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>1fc185e9-05d8-4e27-b08f-f7c4de9dd0d3_1.0.0.0_x86__6ys5kf4c024jp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>1fc185e9-05d8-4e27-b08f-f7c4de9dd0d3_6ys5kf4c024jp!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-09-01T18:05:46.754</Modified>
+      <Modified>2019-09-02T01:05:23.627</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\FitnessTrackerApp.UWP.exe">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\FitnessTrackerApp.UWP.exe">
       <PackagePath>entrypoint\FitnessTrackerApp.UWP.exe</PackagePath>
-      <Modified>2019-09-01T18:05:30.273</Modified>
+      <Modified>2019-09-02T01:04:57.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lannc\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -710,164 +710,164 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2018-11-13T20:15:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\netstandard2.0\FitnessTrackerApp.dll">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp\bin\Debug\netstandard2.0\FitnessTrackerApp.dll">
       <PackagePath>FitnessTrackerApp.dll</PackagePath>
-      <Modified>2019-09-01T18:04:49.147</Modified>
+      <Modified>2019-09-02T01:02:51.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T01:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:21.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:21.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.151</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.161</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.172</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.252</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.266</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.278</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.517</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.535</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.541</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.551</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:22.625</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:23.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-01T16:46:23.293</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-09-01T16:46:23.326</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\FitnessTrackerApp.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\FitnessTrackerApp.UWP.xr.xml">
       <PackagePath>FitnessTrackerApp.UWP.xr.xml</PackagePath>
       <Modified>2019-09-01T16:59:50.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-09-01T18:05:29.673</Modified>
+      <Modified>2019-09-02T01:04:56.200</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-09-01T18:05:29.692</Modified>
+      <Modified>2019-09-02T01:04:56.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -877,13 +877,13 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2018-11-13T20:15:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-09-01T17:00:21.753</Modified>
+      <Modified>2019-09-02T01:05:10.961</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lannc\Desktop\MobileAppProject\FitTracker\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\Core\FitnessTrackerApp.UWP.exe">
+    <AppxPackagedFile Include="C:\MobileAppProject2019\Fitness-App2019\FitnessTrackerApp\FitnessTrackerApp\FitnessTrackerApp.UWP\bin\x86\Debug\Core\FitnessTrackerApp.UWP.exe">
       <PackagePath>FitnessTrackerApp.UWP.exe</PackagePath>
-      <Modified>2019-09-01T18:05:46.728</Modified>
+      <Modified>2019-09-02T01:05:23.595</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
